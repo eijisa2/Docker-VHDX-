@@ -2,7 +2,9 @@
 ```markdown
 # 🧹 How to Shrink WSL & Docker VHDX File Size (Clean Up Disk Space)
 
-If you're using **WSL (Windows Subsystem for Linux)** and **Docker Desktop** on Windows, your VHDX (virtual disk) files can grow significantly over time. This guide shows you how to safely compact those files and reclaim disk space.
+If you're using **WSL (Windows Subsystem for Linux)** and **Docker Desktop** on Windows,
+your VHDX (virtual disk) files can grow significantly over time.
+This guide shows you how to safely compact those files and reclaim disk space.
 
 ---
 
